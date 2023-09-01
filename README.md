@@ -1,2 +1,2 @@
 # jhu-dnn
-These are notebooks that I used for Kaggle Competitions
+These are notebooks that I developed for Kaggle Competitions
